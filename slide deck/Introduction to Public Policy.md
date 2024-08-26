@@ -27,9 +27,11 @@ But also, public ...
 
 ---
 
-## What is Public Policy?
+# What is Public Policy?
 
 **Public Policy** is what officials within government, and by extension the citizens they represent, choose to do or not to do about public problems.
+
+---
 
 # Thought Experiment
 
