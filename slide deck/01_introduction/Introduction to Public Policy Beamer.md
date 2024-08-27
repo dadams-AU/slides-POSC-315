@@ -41,6 +41,8 @@ Dr. David P. Adams, Ph.D.
 
 ![Word Cloud](wordcloud.png){width=30%}
 
+[View Word Cloud](https://www.menti.com/bl7i955mmffk)
+
 ---
 
 # What is Public? 
@@ -161,6 +163,7 @@ What can you do without government intervention?
 
 ![The Feels](feelin.png){width=30%}
 
+[Check it](https://www.menti.com/bl6vuusrbp9x)
 ---
 
 # For Next Time:
