@@ -10,7 +10,8 @@ Dr. David P. Adams, Ph.D.
 
 [POSC 315 Syllabus](https://raw.githubusercontent.com/dadams-AU/syllabi/main/POSC%20315%20Intro%20Policy/2024-25%20Fall/posc315_fall_2024.pdf)
 
-![Syllabus](images/syllabus.jpeg){height="25%" width="25%"}
+<img src="images/syllabus.jpeg" alt="Syllabus" style="height:25%; width:25%;">
+
 
 ---
 
@@ -37,7 +38,9 @@ But also, public ...
 
 What can you do without government intervention?
 
-![Thought Experiment](images/thought_experiment.png){:height="25%" width="25%"}
+
+<img src="images/thought_experiment.png" alt="Thought Experiment" style="height:25%; width:25%;">
+
 
 ---
 
@@ -56,7 +59,7 @@ What can you do without government intervention?
 1. **Policy Outputs**: the formal actions that governments take to pursue their goals
 2. **Policy Outcomes**: the effects that result from policy outputs
 
-![Policy Outputs and Outcomes](images/outputs_outcomes.png){:height="25%" width="25%"}
+<img src = "images/outputs_outcomes.png" alt="Outputs and Outcomes" style="height:25%; width:25%;">
 
 
 ---
@@ -70,7 +73,7 @@ What can you do without government intervention?
 
 ---
 
-# The Bsics (cont.)
+# The Basics (cont.)
 
 - **Politics**: the process of making and implementing decisions that apply to members of a group; concerns the exercise of power and the resolution of conflicts.
 - **Policy Making**: the process by which authorities decide which actions to take to address a problem or set of problems.
