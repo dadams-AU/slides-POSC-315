@@ -1,70 +1,27 @@
 ---
-title: "Introduction to Public Policy"
+title: "What is Public Policy?"
+subtitle: "Introduction to Public Policy"
 author: "David P. Adams, Ph.D."
-date: "2024-08-27"
-header-includes:
-  - \usepackage{tikz}
-  - \usepackage{xcolor}
-  - \setbeamercolor{background canvas}{bg=black}
-  - \setbeamercolor{normal text}{fg=white}
-  - \setbeamercolor{title}{fg=white}
-  - \setbeamercolor{item}{fg=white}
-  - \setbeamercolor{section in toc}{fg=white}
-  - \setbeamercolor{subsection in toc}{fg=white}
-  - \setbeamercolor{frametitle}{fg=white}
+date: "2024-08-29"
+theme: "Pittsburgh"
+colortheme: "whale"
 aspectratio: 169
----
-
-
-# Introduction to Public Policy
-
-
-**POSC 315**
-
-Dr. David P. Adams, Ph.D.
-
----
-
-# Introduction and Syllabus Overview
-
-[POSC 315 Syllabus](https://raw.githubusercontent.com/dadams-AU/syllabi/main/POSC%20315%20Intro%20Policy/2024-25%20Fall/posc315_fall_2024.pdf)
-
-![Read your Syllabus](syllabus.jpeg){width=50%}
-
-
-
----
-
-# Defining Public Policy
-
-**What comes to mind when you hear the term "public policy"?**
-
-![Word Cloud](wordcloud.png){width=30%}
-
-[View Word Cloud](https://www.menti.com/bl7i955mmffk)
-
----
-
-# What is Public? 
-
-**Public** refers to the people, the state, or the government.
-But also, public ...
-
 ---
 
 # What is Public Policy?
 
-**Public Policy** is what officials within government, and by extension the citizens they represent, choose to do or not to do about public problems.
+## POSC 315
+
+### **Week 1**
+
+![Public Policy](policy_deco.png){width=40%}
 
 ---
 
-# Thought Experiment
 
-What can you do without government intervention?
+# What is Public Policy?
 
-
-![Thought Experiment](thought_experiment.png){width=30%}
-
+**Public Policy** is what officials within government, and by extension the citizens they represent, choose to do or not to do about public problems.
 
 ---
 
@@ -158,18 +115,3 @@ What can you do without government intervention?
 
 
 ---
-
-# One more thing!****
-
-![The Feels](feelin.png){width=30%}
-
-[Check it](https://www.menti.com/bl6vuusrbp9x)
----
-
-# For Next Time:
-
-- Read Chapter 1 in the textbook
-- Review the syllabus
-- Check out the _Canvas_ page for the course
-- Sign up for _Kritik_
-
