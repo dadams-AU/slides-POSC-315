@@ -10,7 +10,7 @@ Dr. David P. Adams, Ph.D.
 
 [POSC 315 Syllabus](https://raw.githubusercontent.com/dadams-AU/syllabi/main/POSC%20315%20Intro%20Policy/2024-25%20Fall/posc315_fall_2024.pdf)
 
-![Syllabus](images/syllabus.jpeg)
+![Syllabus](images/syllabus.jpeg){height="25%" width="25%"}
 
 ---
 
@@ -37,7 +37,7 @@ But also, public ...
 
 What can you do without government intervention?
 
-![Thought Experiment](images/thought_experiment.png){:height="40%" width="40%"}
+![Thought Experiment](images/thought_experiment.png){:height="25%" width="25%"}
 
 ---
 
@@ -56,7 +56,8 @@ What can you do without government intervention?
 1. **Policy Outputs**: the formal actions that governments take to pursue their goals
 2. **Policy Outcomes**: the effects that result from policy outputs
 
-![Policy Outputs and Outcomes](images/outputs_outcomes.png){:height="40%" width="40%"}
+![Policy Outputs and Outcomes](images/outputs_outcomes.png){:height="25%" width="25%"}
+
 
 ---
 
