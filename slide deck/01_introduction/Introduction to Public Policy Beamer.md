@@ -29,7 +29,7 @@ Dr. David P. Adams, Ph.D.
 
 [POSC 315 Syllabus](https://raw.githubusercontent.com/dadams-AU/syllabi/main/POSC%20315%20Intro%20Policy/2024-25%20Fall/posc315_fall_2024.pdf)
 
-![Read your Syllabus](syllabus.jpeg){width=50%}
+![Read your Syllabus](images/syllabus.jpeg){width=50%}
 
 
 
@@ -39,7 +39,7 @@ Dr. David P. Adams, Ph.D.
 
 **What comes to mind when you hear the term "public policy"?**
 
-![Word Cloud](wordcloud.png){width=30%}
+![Word Cloud](images/wordcloud.png){width=30%}
 
 [View Word Cloud](https://www.menti.com/bl7i955mmffk)
 
@@ -63,7 +63,7 @@ But also, public ...
 What can you do without government intervention?
 
 
-![Thought Experiment](thought_experiment.png){width=30%}
+![Thought Experiment](images/thought_experiment.png){width=30%}
 
 
 ---
@@ -83,7 +83,7 @@ What can you do without government intervention?
 1. **Policy Outputs**: the formal actions that governments take to pursue their goals
 2. **Policy Outcomes**: the effects that result from policy outputs
 
-![What's the difference?](outputs_outcomes.png){width=30%}
+![What's the difference?](images/outputs_outcomes.png){width=30%}
 
 
 ---
@@ -161,7 +161,7 @@ What can you do without government intervention?
 
 # One more thing!****
 
-![The Feels](feelin.png){width=30%}
+![The Feels](images/feelin.png){width=30%}
 
 [Check it](https://www.menti.com/bl6vuusrbp9x)
 ---

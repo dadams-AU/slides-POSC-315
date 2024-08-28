@@ -14,7 +14,7 @@ aspectratio: 169
 
 ### **Week 1**
 
-![Public Policy](policy_deco.png){width=40%}
+![Public Policy](images/policy_deco.png){width=40%}
 
 ---
 
@@ -40,7 +40,7 @@ aspectratio: 169
 1. **Policy Outputs**: the formal actions that governments take to pursue their goals
 2. **Policy Outcomes**: the effects that result from policy outputs
 
-![What's the difference?](outputs_outcomes.png){width=30%}
+![What's the difference?](images/outputs_outcomes.png){width=30%}
 
 
 ---
@@ -71,6 +71,8 @@ aspectratio: 169
 - **Social Norms**: the unwritten rules that guide behavior in a society.
 - **Social Changes**: the transformations in society that affect the way people live and work.
 
+![Social Context](images/society.jpeg){width=30%}
+
 ---
 
 # The Context of Public Policy (cont.)
@@ -80,6 +82,7 @@ aspectratio: 169
 - **Economic Problems**: conditions that are harmful to individuals or society and that require collective action to address.
 - **Economic Policy**: the actions that governments take to influence the economy, such as setting tax rates, spending money, and regulating businesses.
 
+![Economic Context](images/economy.jpeg){width=40%}
 
 ---
 
@@ -92,6 +95,8 @@ aspectratio: 169
 - **Trust in Government**: the belief that government will act in the public interest.
 - **Ideology**: a set of beliefs about the proper role of government in society.
 
+![Political Parties](images/parties.jpeg){width=40%}
+
 
 ---
 
@@ -102,7 +107,9 @@ aspectratio: 169
 - **Complex Governance Structures**: the overlapping and interdependent relationships among government agencies, interest groups, and other organizations.
 - **Shared Responsibility**: the idea that government, the private sector, and civil society all have a role to play in addressing public problems.
 
----
+![Governing Context](images/governing_context.jpeg){width=40%}
+
+--- 
 
 # The Context of Public Policy (cont.)
 
@@ -113,5 +120,6 @@ aspectratio: 169
 - **Political Participation**: the ways in which people get involved in politics, such as voting, running for office, or joining interest groups.
 - **Cultural Differences**: help to explain the wide variation in state and local public policies.
 
+![Cultural Context](images/culture.jpeg){width=30%}
 
 ---
