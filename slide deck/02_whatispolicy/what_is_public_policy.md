@@ -1,10 +1,10 @@
 ---
 title: "What is Public Policy?"
-subtitle: "Introduction to Public Policy"
+subtitle: "POSC 315: Introduction to Public Policy"
 author: "David P. Adams, Ph.D."
 date: "2024-08-29"
 theme: "Pittsburgh"
-colortheme: "whale"
+colortheme: "orchid"
 aspectratio: 169
 ---
 
@@ -22,6 +22,19 @@ aspectratio: 169
 # What is Public Policy?
 
 **Public Policy** is what officials within government, and by extension the citizens they represent, choose to do or not to do about public problems.
+
+**There's no single definition of public policy.** It's a complex and multifaceted concept that can be understood in many ways.
+
+---
+
+# Defining the Field(s) of Policy Studies
+
+- **Policy studies** is an interdisciplinary field that examines both the content and process of public policies.
+- Smith and Larimer emphasize that it encompasses multiple subfields:
+  - **Policy Analysis:** Evaluates policy outcomes and alternatives.
+  - **Policy Process:** Studies how policies are formulated and implemented.
+  - **Policy Advocacy and Governance:** Examines the influence of interest groups and governance structures.
+- These subfields are interconnected, reflecting the complexity of real-world policy challenges.
 
 ---
 
@@ -62,6 +75,12 @@ aspectratio: 169
 
 ---
 
+# **The Context of Public Policy**
+
+![Policy Context](images/context.png){width=50%}
+
+---
+
 # The Context of Public Policy
 
 ## The Social Context
@@ -71,8 +90,6 @@ aspectratio: 169
 - **Social Norms**: the unwritten rules that guide behavior in a society.
 - **Social Changes**: the transformations in society that affect the way people live and work.
 
-![Social Context](images/society.jpeg){width=30%}
-
 ---
 
 # The Context of Public Policy (cont.)
@@ -81,8 +98,6 @@ aspectratio: 169
 
 - **Economic Problems**: conditions that are harmful to individuals or society and that require collective action to address.
 - **Economic Policy**: the actions that governments take to influence the economy, such as setting tax rates, spending money, and regulating businesses.
-
-![Economic Context](images/economy.jpeg){width=40%}
 
 ---
 
@@ -95,9 +110,6 @@ aspectratio: 169
 - **Trust in Government**: the belief that government will act in the public interest.
 - **Ideology**: a set of beliefs about the proper role of government in society.
 
-![Political Parties](images/parties.jpeg){width=40%}
-
-
 ---
 
 # The Context of Public Policy (cont.)
@@ -106,8 +118,6 @@ aspectratio: 169
 
 - **Complex Governance Structures**: the overlapping and interdependent relationships among government agencies, interest groups, and other organizations.
 - **Shared Responsibility**: the idea that government, the private sector, and civil society all have a role to play in addressing public problems.
-
-![Governing Context](images/governing_context.jpeg){width=40%}
 
 --- 
 
@@ -120,6 +130,145 @@ aspectratio: 169
 - **Political Participation**: the ways in which people get involved in politics, such as voting, running for office, or joining interest groups.
 - **Cultural Differences**: help to explain the wide variation in state and local public policies.
 
-![Cultural Context](images/culture.jpeg){width=30%}
+---
+
+# **Reasons for Government Inolvement**
+
+![Government Involvement](images/involvement.png){width=50%}
 
 ---
+
+# Reasons for Government Inolvement
+
+1. **Political**: shifts in public opinion; rise of social movements
+2. **Moral or Ethical**: action is the "right" thing to do, even without public support
+3. **Economic**: market failures; externalities; public goods
+
+---
+
+# Reasons for Government Inolvement (cont.)
+
+## Economics and Market Failure 
+
+1. **Market Systems and Government Intervention**
+   - In a pure capitalist or market system, government intervention is often seen as a distortion of market efficiency.
+   - **Market Failure:** Occurs when the private market is not efficient, justifying government intervention.
+  
+---
+
+# Reasons for Government Inolvement (cont.)
+
+## Economics and Market Failure 
+
+1. **Market Systems and Government Intervention**
+   - In a pure capitalist or market system, government intervention is often seen as a distortion of market efficiency.
+   - **Market Failure:** Occurs when the private market is not efficient, justifying government intervention.
+  
+2. **Types of Market Failures**
+   - **Monopolies & Oligopolies:** Occur when one or a few companies dominate the market, controlling prices.
+   - **Externalities:** 
+     - *Negative Externality:* Harm caused to a third party without compensation.
+     - *Positive Externality:* Benefit gained by a third party without payment.
+  
+---
+
+# Reasons for Government Inolvement (cont.)
+
+##  **Other Types of Market Failures**
+
+1. **Information Failure**
+   - Occurs when crucial information for buyers and sellers is incomplete or not easily accessible.
+
+2. **Inability to Provide Public/Collective Goods**
+   - **Public/Collective Goods:** Defined by two criteria:
+     - *Exclusion:* Ability to exclude someone from accessing the good.
+     - *Joint Consumption:* Ability for multiple people to consume the good simultaneously.
+
+---
+
+# Reasons for Government Inolvement (cont.)
+
+##  **Other Types of Market Failures**
+
+1. **Information Failure**
+   - Occurs when crucial information for buyers and sellers is incomplete or not easily accessible.
+
+2. **Inability to Provide Public/Collective Goods**
+   - **Public/Collective Goods:** Defined by two criteria:
+     - *Exclusion:* Ability to exclude someone from accessing the good.
+     - *Joint Consumption:* Ability for multiple people to consume the good simultaneously.
+
+---
+
+# Reasons for Government Inolvement (cont.)
+
+## Examples of Public Goods
+
+![Public Goods](images/goods.png){width=100%}
+
+---
+
+# **The Practice of Policy Analysis**
+
+![Policy Analysis](images/analysis.png){width=50%}
+
+---
+
+# **The Practice of Policy Analysis**
+
+- **Everyday Relevance:**
+  - Policy analysis isn't just for specialists; we all use it in daily decisions (e.g., buying a car, choosing a course).
+
+---
+
+# **The Practice of Policy Analysis**
+
+- **Everyday Relevance:**
+  - Policy analysis isn't just for specialists; we all use it in daily decisions (e.g., buying a car, choosing a course).
+
+- **Uses of Policy Analysis:**
+  - Formulating policies and evaluating programs.
+  - Describing the scope of public problems.
+  - Assessing the feasibility of policy choices.
+  - Evaluating program effectiveness.
+  - Providing a counterweight to partisan or ideological decision-making.
+
+---
+
+# **The Practice of Policy Analysis**
+
+- **Everyday Relevance:**
+  - Policy analysis isn't just for specialists; we all use it in daily decisions (e.g., buying a car, choosing a course).
+
+- **Uses of Policy Analysis:**
+  - Formulating policies and evaluating programs.
+  - Describing the scope of public problems.
+  - Assessing the feasibility of policy choices.
+  - Evaluating program effectiveness.
+  - Providing a counterweight to partisan or ideological decision-making.
+
+- **Citizens and Policy Analysis:**
+  - Helps citizens and interest groups make informed decisions and arguments.
+  - Important for students to evaluate information critically.
+
+---
+
+# **Deciding the Best Policy: Using Multiple Criteria**
+- **Key Criteria:**
+  - **Effectiveness:** Will the policy work?
+  - **Efficiency:** What are the costs vs. benefits?
+  - **Equity:** Is the policy fair?
+  - **Political Feasibility:** Is the policy acceptable to officials and actors?
+
+- **Flexibility:** 
+  - These criteria are not exhaustive—others may be relevant based on the specific issue.
+
+---
+
+# **That's all for today!**
+
+1. Discussion 1 Post due on Tuesday
+2. Read Kraft & Furlong, Ch. 2 and Smith & Larimer, Ch. 3 for Next Week
+3. Sign up for Kritik
+4. Have a great long weekend!
+
